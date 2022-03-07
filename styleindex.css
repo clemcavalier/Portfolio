@@ -33,12 +33,12 @@ body{
     left: 0;
     right:0;
     bottom: 0;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a29ca9+0,95909b+99 */
-  background: #a29ca9; /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #dfeaf096 0%, #24313838 99%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(-45deg, #dfeaf096 0%,#24313838 99%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #dfeaf096 0%,#24313838 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a29ca9', endColorstr='#95909b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+  background: #a29ca9; 
+  background: -moz-linear-gradient(-45deg, #dfeaf096 0%, #24313838 99%); 
+  background: -webkit-linear-gradient(-45deg, #dfeaf096 0%,#24313838 99%); 
+  background: linear-gradient(135deg, #dfeaf096 0%,#24313838 99%); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a29ca9', endColorstr='#95909b',GradientType=1 ); 
     content: '';
     opacity: 0;
       -webkit-transition: opacity 0.9s ease 0s; 
